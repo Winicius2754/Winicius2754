@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white">
 
-[![Vinicius Neves](https://github-profile-trophy.vercel.app/?username=Winicius2754)](https://github.com/ryo-ma/github-profile-trophy)
+
